@@ -1,0 +1,4 @@
+
+#ignorar o front no git-hub
+/tweteroo-front
+/node_modules
